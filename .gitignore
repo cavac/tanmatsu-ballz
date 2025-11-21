@@ -19,3 +19,5 @@ sdkconfig*
 badgelink
 sdkconfig_*
 components/*
+.hg
+.hgignore
